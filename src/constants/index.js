@@ -45,7 +45,7 @@ export const EDUCATION = [
     
   },
   {
-    year: "2016 - 2018",
+    year: "2017 - 2018",
     degree: "SSC ",
     branch: "Secodary School certifcation", 
     cgpa: "9.2", 
@@ -55,9 +55,16 @@ export const EDUCATION = [
   },
 ];
 
-
-
-
+export const CERTIFICATIONS = [
+  {
+    yearMonth: "Jul 2024 -  Mar 2025",
+    month: "-Mar",
+    title: "Java Full Stack Developer",
+    organization: "Excel R.",
+    description: `This certification validates my expertise in Java Full Stack development, including frontend technologies like React JS, backend frameworks like Spring Boot, and database management using MySQL.`,
+    technologies:  ["HTML", "CSS", "JavaScript", "Java", "Spring Boot", "React JS", "MySQL", "Maven"],
+  },
+];
 
 export const CONTACT = {
   address: "Sri nivas hoestel,dhobi ghat rd,officers colony,madhapur,hyderabad,telangana,500081 ",
