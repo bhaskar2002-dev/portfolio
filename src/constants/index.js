@@ -6,7 +6,7 @@ export const ABOUT_TEXT = `As a Full Stack Developer, I am passionate about buil
 
 export const EXPERIENCES = [
   {
-    year: "2024 - Present",
+    year: " Jul 2024 - Jan 2025",
     role: "Java Full Stack Trainee",
     company: "Excel R.",
     description: `I am a trainee learning both frontend and backend. I have developed interactive web pages and server-side applications to run backend processes, and I collaborate with the team to ensure the successful execution of projects. I work with stakeholders to define project requirements and timelines.`,
@@ -57,7 +57,7 @@ export const EDUCATION = [
 
 export const CERTIFICATIONS = [
   {
-    yearMonth: "Jul 2024 -  Mar 2025",
+    yearMonth: "Jul 2024 -  Jan 2025",
     month: "-Mar",
     title: "Java Full Stack Developer",
     organization: "Excel R.",
