@@ -13,6 +13,22 @@ export const EXPERIENCES = [
     technologies: ["React JS", "CSS", "JavaScript", "Spring Boot", "Java", "MySQL", "Maven","MySQL"],
   },
 ];
+export const COMPANY_EXPERIENCE = [
+  {
+    time: "May 2025 – Present",
+    company: "Eficaa Ensmart Solutions Private Limited",
+    role: "Supervisor & .NET Trainee",
+    description:
+      "Working as a Supervisor and .NET Trainee, I supervise and support field operations related to smart-meter installation, configuration, and maintenance. I assist technical teams on-site to ensure accurate meter setup, troubleshooting, and data verification. I coordinate with field engineers and customers to ensure smooth deployment of smart-meter solutions. Alongside operational responsibilities, I am undergoing structured training in .NET development, gaining hands-on exposure to backend concepts, application architecture, and project workflows. I maintain daily progress reports, ensure safety compliance, support timely project execution, and actively contribute to the company’s Co-Pilot project through development support, documentation, testing, and basic code understanding.",
+    technologies: [
+      ".NET",
+      "C#",
+      "Smart Meters installation assistance",
+      "Field incharge",
+      "Project Coordination"
+    ],
+  },
+];
 
 export const PROJECTS = [
   {

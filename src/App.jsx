@@ -3,6 +3,7 @@ import Certifications from './components/Certifications';
 import Contact from './components/Contact';
 import Education from './components/Education';
 import Experience from './components/Experience';
+import CompanyExperience from "./components/CompanyExperience";
 import Hero from './components/Hero';
 import Navbar from './components/Navbar';
 import Projects from './components/Projects';
@@ -21,6 +22,7 @@ const App = () => {
       <About/>
       <Technologies/>
       <Experience />
+      <CompanyExperience />
       <Projects />
       <Education/>
       <Certifications/>
