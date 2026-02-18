@@ -1,8 +1,3 @@
-# React + Vite
+Portfolio – React.js + Vite Project Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I built a personal portfolio using React.js with Vite for fast development and optimized performance. The project is styled with Tailwind CSS and uses Framer Motion for smooth animations, along with React Icons and Google Fonts to enhance the UI/UX. State management is handled with Redux, and custom JavaScript scripts are implemented to manage dynamic content and interactivity. The portfolio showcases my skills, projects, and experience in a visually appealing and professional manner, demonstrating my ability to combine modern frontend technologies, responsive design, and interactive user experiences.
